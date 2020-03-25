@@ -9,7 +9,7 @@
 2-Please Re-enter your password matched to move to step 3 not matched back to step 1<br/>
 3-Main Caption: <br/>
   &nbsp;a- +Open Door<br/>
- &nbsp; b- -Change password <br/>
+ &nbsp;b- -Change password <br/>
 4-Open Door:<br/>
  &nbsp; a-if matched rotate motor waiting 60 min than close door.<br/>
 &nbsp;  b-wrong password if 2 times alarm led will flashing for 60 min.<br/>
