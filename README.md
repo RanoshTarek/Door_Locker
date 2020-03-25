@@ -4,8 +4,8 @@
 
 
 
-Door Locker Steps: 
-1-Please enter your password \n
+<h2>Door Locker Steps:</h2>
+1-Please enter your password &nbsp;
 2-Please Re-enter your password matched to move to step 3 not matched back to step 1
 3-Main Caption: 
   a- +Open Door
