@@ -1,11 +1,11 @@
 # Door_Locker
 
-[![Watch the video](https://i.imgur.com/bNy3mUP.png)](https://youtu.be/jElXmJj1bMY)
+[![Watch the video](https://i.imgur.com/y5taztC.png)](https://youtu.be/jElXmJj1bMY)
 
 
 
 Door Locker Steps: 
-1-Please enter your password 
+1-Please enter your password \n
 2-Please Re-enter your password matched to move to step 3 not matched back to step 1
 3-Main Caption: 
   a- +Open Door
