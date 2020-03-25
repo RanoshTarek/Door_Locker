@@ -13,6 +13,5 @@
 4-Open Door:<br/>
   a-if matched rotate motor waiting 60 min than close door.<br/>
   b-wrong password if 2 times alarm led will flashing for 60 min.<br/>
-5-Change password <br/>
-  go to step 1.<br/>
+5-Change password go to step 1.
   
