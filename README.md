@@ -1,7 +1,7 @@
 # Door_Locker
 
-![Watch_Video](https://i.imgur.com/y5taztC.png)
 
+[![Watch the video](https://i.imgur.com/y5taztC.png)](https://www.youtube.com/watch?v=jElXmJj1bMY&feature=youtu.be)
 
 
 <h2>Desciption : </h2>
